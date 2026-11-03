@@ -30,7 +30,7 @@ Knowledge & study notes distilled from tech videos (Bilibili / YouTube), summari
 
 - Most source videos were watched on Bilibili and their links were not recorded at the time; where a source is known, it is credited at the end of the individual note (e.g. [网络协议体系](./网络协议体系.md) credits Techs Explained's *Every Network Protocol Explained in 12 minutes* on YouTube).
 - Original video content, course names, and trademarks belong to their respective creators. These notes are independent study summaries and do not reproduce video transcripts.
-- If you are a content owner and want a note removed, or a source added/corrected, please [open an issue](https://github.com/AkiroMusic/learning-notes/issues).
+- If you are a content owner and want a note removed, or a source added/corrected, please [open an issue](https://github.com/AkiroMusic/Learning-Notes/issues).
 
 ## License
 
