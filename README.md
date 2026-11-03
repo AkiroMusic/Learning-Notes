@@ -1,5 +1,6 @@
 # Learning Notes / 学习笔记
 
+[![Website](https://img.shields.io/badge/site-akiromusic.github.io-6D82FF)](https://akiromusic.github.io/Learning-Notes/)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Knowledge & study notes distilled from tech videos (Bilibili / YouTube), summarized with AI assistance and manually reviewed for technical accuracy before publishing. Every note is available in Chinese and English.
